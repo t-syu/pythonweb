@@ -2,3 +2,4 @@ streamlit
 pip
 pandas
 rfr.pkl
+sklearn
